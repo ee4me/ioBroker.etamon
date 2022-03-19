@@ -38,7 +38,7 @@
         "test1": true,
         "test2": 42,
         "mySelect": "auto",
-        "etaService": "http://192.168.178.100:8080/users/",
+        "etaService": "http://192.168.2.181:8080/users/",
         "etaTimeout": 240000,
         "etaDebug": false
     },
